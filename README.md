@@ -2,7 +2,7 @@
 
 This repository contains projects and code developed as part of the Moringa Projects curriculum.
 
-## Structure
+#### Structure
 
 - Source code and project files are organized by topic and module.
 - Documentation and instructions are provided for each project.
